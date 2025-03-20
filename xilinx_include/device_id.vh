@@ -1,31 +1,30 @@
 // ======== 7 Series ========
-
 // AMD Spartan 7 Family
-`define ID_7S6   32'h03622093
-`define ID_7S15  32'h03620093
-`define ID_7S25  32'h037C4093
-`define ID_7S50  32'h0362F093
-`define ID_7S75  32'h037C8093
-`define ID_7S100 32'h037C7093
+`define ID_7S6      32'h03622093
+`define ID_7S15     32'h03620093
+`define ID_7S25     32'h037C4093
+`define ID_7S50     32'h0362F093
+`define ID_7S75     32'h037C8093
+`define ID_7S100    32'h037C7093
 
 // AMD Artix 7 Family
-`define ID_7A12T  32'h037C3093
-`define ID_7A15T  32'h0362E093
-`define ID_7A25T  32'h037C2093
-`define ID_7A35T  32'h0362D093
-`define ID_7A50T  32'h0362C093
-`define ID_7A75T  32'h03632093
-`define ID_7A100T 32'h03631093
-`define ID_7A200T 32'h03636093
+`define ID_7A12T    32'h037C3093
+`define ID_7A15T    32'h0362E093
+`define ID_7A25T    32'h037C2093
+`define ID_7A35T    32'h0362D093
+`define ID_7A50T    32'h0362C093
+`define ID_7A75T    32'h03632093
+`define ID_7A100T   32'h03631093
+`define ID_7A200T   32'h03636093
 
 // AMD Kintex 7 Family
-`define ID_7K70T   32'h03647093
-`define ID_7K160T  32'h0364C093
-`define ID_7K325T  32'h03651093
-`define ID_7K355T  32'h03747093
-`define ID_7K410T  32'h03656093
-`define ID_7K420T  32'h03752093
-`define ID_7K480T  32'h03751093
+`define ID_7K70T    32'h03647093
+`define ID_7K160T   32'h0364C093
+`define ID_7K325T   32'h03651093
+`define ID_7K355T   32'h03747093
+`define ID_7K410T   32'h03656093
+`define ID_7K420T   32'h03752093
+`define ID_7K480T   32'h03751093
 
 // AMD Virtex 7 Family
 `define ID_7V585T   32'h03671093
@@ -41,7 +40,6 @@
 `define ID_7VH870T  32'h036DB093
 
 // ==== Ultrascale & Ultrascale+ ====
-
 // Kintex UltraScale
 `define ID_KU025    32'h03824093
 `define ID_KU035    32'h03823093
